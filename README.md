@@ -9,20 +9,20 @@ wireshark é um sniffer de rede, lê pacotes de dados que atravessam a rede dent
 
 - Kali Linux :desktop_computer:
 - Wireshark  :shark:
-- Windows :computer:
 
-### Iniciando
 
-- Acesso kali e dentro acessaremos DVWA e WARESHARK
+### :arrow_right:Iniciando
+
+- Acessando o kali , DVWA e WIRESHARK
   
 ![image](https://github.com/user-attachments/assets/70ae99ea-481a-48f2-b4cf-228c37803a92)
 
- ``` setoolkit ```
+ 
 
-<img src=" " width="400"/>
+
 ---
 
- ```http.request.method=="POST"``` é usado como um filtro no de exibição para isolar e visualizar apenas os pacotes de solicitação ```HTTP``` do tipo ```POST```.
+ O comando ```http.request.method=="POST"``` é usado como um filtro no de exibição para isolar e visualizar apenas os pacotes de solicitação ```HTTP``` do tipo ```POST```.
 
 Este filtro específico filtra os pacotes de rede para mostrar apenas aqueles que utilizam o método ```HTTP POST```. 
 
